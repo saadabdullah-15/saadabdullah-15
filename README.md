@@ -1,6 +1,6 @@
-# Hello there! I'm [Saad Abdullah] 👋
+# Hello there! I'm Saad Abdullah 👋
 
-## I'm a [Data Science student and Machine Learning] Enthusiast!
+## I'm a Masters Data Science student and Machine Learning Enthusiast!
 
 - 🎓 I'm currently studying MSc Data Science @ Universität Potsdam.
 - 🌱 I'm currently exploring Machine Learning in Healthcare.
