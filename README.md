@@ -15,12 +15,6 @@
 ### [SQL Data Warehouse & Analytics](https://github.com/saadabdullah-15/sql-data-warehouse-analytics)
 Production-style SQL Server Data Warehouse built with the **Medallion architecture (Bronze → Silver → Gold)** and automated quality checks.
 
-### [AWS Weather Data Pipeline](https://github.com/saad-yourrepo)
-Serverless weather data ingestion and transformation pipeline using **S3, Glue, Athena**, and **Great Expectations**.
-
-### [NoHarm Survey Platform](https://github.com/saad-yourrepo)
-Flask-based research survey platform hosted on **HPI servers**, including CI/CD setup and secure VPN deployment.
-
 ---
 
 ## 🧰 Tech Stack
