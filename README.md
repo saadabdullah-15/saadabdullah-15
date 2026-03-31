@@ -1,33 +1,50 @@
-# 👋 Hi, I'm Saad
+# Hi, I'm Saad
 
-🎓 Master’s student in **Data Science** at the University of Potsdam (Germany)  
-💡 Aspiring **Data Engineer / Data Analyst** passionate about scalable data systems and cloud solutions
+Master’s student in **Data Science** at the **University of Potsdam, Germany**.  
+I am focused on **Data Engineering**, with secondary interest in **Analytics Engineering**, **BI**, and **Data Analytics**.
 
----
+## About Me
 
-## 🚀 About Me
-- Building **data warehouses**, **ETL pipelines**, and **analytics solutions** with modern tools  
-- Experienced with **SQL Server**, **Python**, **dbt**, **Airflow**, and **PySpark**  
-- Exploring **AWS** and **Azure** for cloud-based data architectures  
----
+I build data-oriented projects involving **SQL**, **Python**, **data warehousing**, **ETL/ELT workflows**, and **analytics-ready datasets**. My work is centered on creating structured, reliable data systems for reporting, analysis, and downstream use.
 
-## 🧩 Featured Projects
+My interests include:
+- Data pipelines and workflow automation
+- Data warehousing and dimensional modeling
+- Analytics engineering and BI-oriented datasets
+- Cloud-based data architectures
+- Data quality, validation, and reproducibility
+
+## Featured Project
+
 ### [SQL Data Warehouse & Analytics](https://github.com/saadabdullah-15/sql-data-warehouse-analytics)
-Production-style SQL Server Data Warehouse built with the **Medallion architecture (Bronze → Silver → Gold)** and automated quality checks.
+Production-style SQL Server data warehouse project built using the **Medallion Architecture (Bronze → Silver → Gold)**.  
+Includes data ingestion, transformation, modeling, and quality checks to support analytics and reporting use cases.
+
+## Tech Stack
+
+**Languages**  
+SQL, Python, Bash
+
+**Data & Analytics**  
+SQL Server, Data Warehousing, ETL/ELT, Data Modeling, Power BI
+
+**Tools & Platforms**  
+Git, Docker, Jupyter, Flask
+
+**Cloud & Engineering**  
+AWS, Azure, dbt, Airflow, Spark
+
+## Current Focus
+
+- Building stronger **data engineering** foundations through hands-on projects
+- Expanding practical experience in **cloud data workflows**
+- Developing portfolio projects in **data pipelines**, **analytics engineering**, and **BI**
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/saad-yourprofile)  
+[Email](mailto:saad@example.com)
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Python, SQL, Bash  
-**Data Tools:** SQL Server, dbt, Airflow, Spark, Power BI  
-**Cloud:** AWS (S3, Glue, Athena), Azure (Synapse, Data Factory)  
-**Other:** Docker, Git, Great Expectations, Flask  
-
----
-
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/saad-yourprofile) • [Email](mailto:saad@example.com)
-
----
-
-💬 *Always open to collaborations, data projects, and research opportunities.*
+Open to data-focused opportunities, collaborations, and project work in **Data Engineering**, **Analytics Engineering**, and **BI / Analytics**.
