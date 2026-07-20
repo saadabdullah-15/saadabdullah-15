@@ -1,4 +1,4 @@
-# Hi, I'm Saad Abdullah 👋
+# Hi, I'm Saad 👋
 
 **M.Sc. Data Science student at the University of Potsdam** focused on **data engineering, streaming systems, lakehouse architectures, and database-oriented ML systems**.
 
