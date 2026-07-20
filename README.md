@@ -6,7 +6,7 @@ I build end-to-end data platforms that move from ingestion and processing to sto
 
 <p>
   <a href="https://www.linkedin.com/in/saadabdullah15"><img src="https://img.shields.io/badge/LinkedIn-Saad%20Abdullah-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hi.saadabdullah@gmail.com"><img src="https://img.shields.io/badge/Email-saadiehere%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:hi.saadabdullah@gmail.com"><img src="https://img.shields.io/badge/Email-hi.saadabdullah%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Germany-black?logo=googlemaps&logoColor=white" alt="Location: Germany">
 </p>
 
